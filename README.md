@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 My name is Adam, and I'm currently studying the web development program at Mittuniversitet in Sundsvall, Sweden. I'm currently working on version management, and I'm here on github to learn this skill.
 
