@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Adam, and I'm currently studying the web development program at Mittuniversitet in Sundsvall, Sweden. I'm currently working on version management, and I'm here on github to learn this skill.
+My name is Adam, and I'm currently studying the web development program at Mid-University Sweden located in Sundsvall, Sweden. I'm currently working on version management, and I'm here on github to learn this skill.
 
 In my free time I like to spend my time outdoors. I love hiking and camping and I also spend a lot of time with my girlfriend, Moa. 
 
